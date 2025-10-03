@@ -15,5 +15,10 @@ namespace AfterlifeArmory.Main
             base.Awake();   
             PlayerService = new PlayerService(playerScriptableObject);
         }
+
+        private void Update()
+        {
+            PlayerService?.UpdatePlayer();
+        }
     }
 }

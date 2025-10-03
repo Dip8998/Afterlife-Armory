@@ -15,5 +15,5 @@ MonoBehaviour:
   PlayerPrefab: {fileID: 3733300238733623103, guid: 4d6cd07d30652564698918f7ea39aeba, type: 3}
   SpawnPosition: {x: 0, y: 1, z: 0}
   SpawnRotation: {x: 0, y: 0, z: 0}
-  MoveSpeed: 0
-  RotationSpeed: 0
+  MoveSpeed: 5
+  RotationSpeed: 5

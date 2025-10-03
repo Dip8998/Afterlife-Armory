@@ -15,5 +15,10 @@
         {
             playerController = new PlayerController(playerScriptableObject);
         }
+
+        public void UpdatePlayer()
+        {
+            playerController.UpdatePlayer();
+        }
     }
 }
