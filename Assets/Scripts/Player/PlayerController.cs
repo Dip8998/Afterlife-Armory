@@ -1,6 +1,5 @@
 using AfterlifeArmory.Cam;
 using UnityEngine;
-using UnityEngine.InputSystem.XR;
 
 namespace AfterlifeArmory.Player
 {

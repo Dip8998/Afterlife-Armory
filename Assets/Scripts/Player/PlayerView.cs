@@ -1,4 +1,3 @@
-using AfterlifeArmory.Cam;
 using UnityEngine;
 
 namespace AfterlifeArmory.Player
